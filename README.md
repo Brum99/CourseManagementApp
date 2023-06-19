@@ -59,9 +59,11 @@ Withdraw from Courses:
 
 If needed, navigate to the course withdrawal section.
 Select the courses you wish to withdraw from and confirm the withdrawal.
+
 Export Enrolled Courses:
 
-In the CMS interface, find the export functionality or option.
-Select the desired export format (e.g., CSV, Excel).
-Choose a file location and export the enrolled courses.
-Note: For detailed instructions on using specific features or navigating through the CMS, consult the CMS documentation or user guide.
+In the CMS interface, find the export option.
+Once you have clicked the export a .txt file will appear in the projects resources folder.
+
+Any questions please email: samdpeterson1999@gmail.com
+
